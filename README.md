@@ -1,4 +1,4 @@
-# 📈 End-to-End Business Intelligence & Sales Analytics System
+# 📈 Business Intelligence & Sales Analytics Dashboard
 
 ### 🚀 Project Overview
 **Role:** Data Analyst | **Domain:** E-commerce & Retail
