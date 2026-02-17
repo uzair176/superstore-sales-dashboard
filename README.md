@@ -34,7 +34,7 @@ The company faced visibility issues regarding:
 ---
 
 ### 📷 Dashboard Preview
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard_screenshot.jpeg)
 
 
 ---
